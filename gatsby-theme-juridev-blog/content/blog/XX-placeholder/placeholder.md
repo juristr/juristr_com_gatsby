@@ -12,4 +12,4 @@ redirects:
   - '/invisible-post-423123'
 ---
 
-This exists to populate GraphQL fields and avoid null errors. It should contain all of the available frontmatter.
+This is a placeholder post. It won’t be displayed. The only reason it exists at all is to set up metadata in the Gatsby schema so nothing breaks when the theme is installed.
