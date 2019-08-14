@@ -7,5 +7,13 @@ module.exports = {
         basePath: '/blog'
       }
     }
+    // ,
+    // {
+    //   resolve: '@jlengstorf/gatsby-theme-events',
+    //   options: {
+    //     contentPath: 'data',
+    //     basePath: '/events'
+    //   }
+    // }
   ]
 };

@@ -43,12 +43,6 @@ exports.createPages = ({ actions, graphql }) =>
         edges {
           node {
             id
-            parent {
-              ... on File {
-                name
-                sourceInstanceName
-              }
-            }
             excerpt(pruneLength: 250)
             fields {
               title

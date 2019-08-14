@@ -1,8 +1,8 @@
 import React from 'react';
 import Layout from '../components/Layout';
-import ContentWithFootnotes from '../components/ContentWithFootnotes';
-import ContentArea from '../components/ContentArea';
-import SEO from '../components/SEO/SEO';
+// import ContentWithFootnotes from '../components/ContentWithFootnotes';
+// import ContentArea from '../components/ContentArea';
+// import SEO from '../components/SEO/SEO';
 
 export default ({ children, pageContext, data, location }) => {
   const postImage =
