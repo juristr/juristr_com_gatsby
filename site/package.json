@@ -21,7 +21,7 @@
     "start": "serve public/"
   },
   "dependencies": {
-    "gatsby": "2.10.0",
+    "gatsby": "^2.13.64",
     "gatsby-theme-juridev-blog": "*",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"

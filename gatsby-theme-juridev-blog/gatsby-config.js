@@ -95,7 +95,7 @@ module.exports = {
     {
       resolve: `gatsby-plugin-typography`,
       options: {
-        pathToConfigModule: `src/lib/typography`
+        pathToConfigModule: require.resolve(__dirname, `src/lib/typography`)
       }
     }
   ]
